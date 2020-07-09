@@ -20,7 +20,7 @@ namespace Project_0.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            return View(); //TESTING SYNC CHANGES WITH GITHUB
         }
 
         public IActionResult Privacy()
