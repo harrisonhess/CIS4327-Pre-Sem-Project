@@ -20,10 +20,10 @@ namespace Project_0.Controllers
 
         public IActionResult Index()
         {
-            return View(); //TESTING SYNC CHANGES WITH GITHUB
+            return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult AdminLogin()
         {
             return View();
         }

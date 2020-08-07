@@ -1,0 +1,38 @@
+C:\Users\Lan pc rx480\Source\Repos\harrisonhess\CIS4327-Pre-Sem-Project\Project 0\Project 0\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Lan pc rx480\Source\Repos\harrisonhess\CIS4327-Pre-Sem-Project\Project 0\Project 0\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Lan pc rx480\Source\Repos\harrisonhess\CIS4327-Pre-Sem-Project\Project 0\Project 0\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Lan pc rx480\Source\Repos\harrisonhess\CIS4327-Pre-Sem-Project\Project 0\Project 0\bin\Debug\netcoreapp3.1\Project 0.exe
+C:\Users\Lan pc rx480\Source\Repos\harrisonhess\CIS4327-Pre-Sem-Project\Project 0\Project 0\bin\Debug\netcoreapp3.1\Project 0.deps.json
+C:\Users\Lan pc rx480\Source\Repos\harrisonhess\CIS4327-Pre-Sem-Project\Project 0\Project 0\bin\Debug\netcoreapp3.1\Project 0.runtimeconfig.json
+C:\Users\Lan pc rx480\Source\Repos\harrisonhess\CIS4327-Pre-Sem-Project\Project 0\Project 0\bin\Debug\netcoreapp3.1\Project 0.runtimeconfig.dev.json
+C:\Users\Lan pc rx480\Source\Repos\harrisonhess\CIS4327-Pre-Sem-Project\Project 0\Project 0\bin\Debug\netcoreapp3.1\Project 0.dll
+C:\Users\Lan pc rx480\Source\Repos\harrisonhess\CIS4327-Pre-Sem-Project\Project 0\Project 0\bin\Debug\netcoreapp3.1\Project 0.pdb
+C:\Users\Lan pc rx480\Source\Repos\harrisonhess\CIS4327-Pre-Sem-Project\Project 0\Project 0\bin\Debug\netcoreapp3.1\Project 0.Views.dll
+C:\Users\Lan pc rx480\Source\Repos\harrisonhess\CIS4327-Pre-Sem-Project\Project 0\Project 0\bin\Debug\netcoreapp3.1\Project 0.Views.pdb
+C:\Users\Lan pc rx480\Source\Repos\harrisonhess\CIS4327-Pre-Sem-Project\Project 0\Project 0\obj\Debug\netcoreapp3.1\Project 0.csprojAssemblyReference.cache
+C:\Users\Lan pc rx480\Source\Repos\harrisonhess\CIS4327-Pre-Sem-Project\Project 0\Project 0\obj\Debug\netcoreapp3.1\Project 0.AssemblyInfoInputs.cache
+C:\Users\Lan pc rx480\Source\Repos\harrisonhess\CIS4327-Pre-Sem-Project\Project 0\Project 0\obj\Debug\netcoreapp3.1\Project 0.AssemblyInfo.cs
+C:\Users\Lan pc rx480\Source\Repos\harrisonhess\CIS4327-Pre-Sem-Project\Project 0\Project 0\obj\Debug\netcoreapp3.1\Project 0.csproj.CoreCompileInputs.cache
+C:\Users\Lan pc rx480\Source\Repos\harrisonhess\CIS4327-Pre-Sem-Project\Project 0\Project 0\obj\Debug\netcoreapp3.1\Project 0.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lan pc rx480\Source\Repos\harrisonhess\CIS4327-Pre-Sem-Project\Project 0\Project 0\obj\Debug\netcoreapp3.1\Project 0.RazorAssemblyInfo.cache
+C:\Users\Lan pc rx480\Source\Repos\harrisonhess\CIS4327-Pre-Sem-Project\Project 0\Project 0\obj\Debug\netcoreapp3.1\Project 0.RazorAssemblyInfo.cs
+C:\Users\Lan pc rx480\Source\Repos\harrisonhess\CIS4327-Pre-Sem-Project\Project 0\Project 0\obj\Debug\netcoreapp3.1\Project 0.TagHelpers.input.cache
+C:\Users\Lan pc rx480\Source\Repos\harrisonhess\CIS4327-Pre-Sem-Project\Project 0\Project 0\obj\Debug\netcoreapp3.1\Project 0.TagHelpers.output.cache
+C:\Users\Lan pc rx480\Source\Repos\harrisonhess\CIS4327-Pre-Sem-Project\Project 0\Project 0\obj\Debug\netcoreapp3.1\Project 0.RazorCoreGenerate.cache
+C:\Users\Lan pc rx480\Source\Repos\harrisonhess\CIS4327-Pre-Sem-Project\Project 0\Project 0\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Lan pc rx480\Source\Repos\harrisonhess\CIS4327-Pre-Sem-Project\Project 0\Project 0\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Lan pc rx480\Source\Repos\harrisonhess\CIS4327-Pre-Sem-Project\Project 0\Project 0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Lan pc rx480\Source\Repos\harrisonhess\CIS4327-Pre-Sem-Project\Project 0\Project 0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Lan pc rx480\Source\Repos\harrisonhess\CIS4327-Pre-Sem-Project\Project 0\Project 0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Lan pc rx480\Source\Repos\harrisonhess\CIS4327-Pre-Sem-Project\Project 0\Project 0\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Lan pc rx480\Source\Repos\harrisonhess\CIS4327-Pre-Sem-Project\Project 0\Project 0\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Lan pc rx480\Source\Repos\harrisonhess\CIS4327-Pre-Sem-Project\Project 0\Project 0\obj\Debug\netcoreapp3.1\Project 0.RazorTargetAssemblyInfo.cache
+C:\Users\Lan pc rx480\Source\Repos\harrisonhess\CIS4327-Pre-Sem-Project\Project 0\Project 0\obj\Debug\netcoreapp3.1\Project 0.RazorTargetAssemblyInfo.cs
+C:\Users\Lan pc rx480\Source\Repos\harrisonhess\CIS4327-Pre-Sem-Project\Project 0\Project 0\obj\Debug\netcoreapp3.1\Project 0.Views.pdb
+C:\Users\Lan pc rx480\Source\Repos\harrisonhess\CIS4327-Pre-Sem-Project\Project 0\Project 0\obj\Debug\netcoreapp3.1\staticwebassets\Project 0.StaticWebAssets.Manifest.cache
+C:\Users\Lan pc rx480\Source\Repos\harrisonhess\CIS4327-Pre-Sem-Project\Project 0\Project 0\obj\Debug\netcoreapp3.1\staticwebassets\Project 0.StaticWebAssets.xml
+C:\Users\Lan pc rx480\Source\Repos\harrisonhess\CIS4327-Pre-Sem-Project\Project 0\Project 0\obj\Debug\netcoreapp3.1\Project 0.dll
+C:\Users\Lan pc rx480\Source\Repos\harrisonhess\CIS4327-Pre-Sem-Project\Project 0\Project 0\obj\Debug\netcoreapp3.1\Project 0.pdb
+C:\Users\Lan pc rx480\Source\Repos\harrisonhess\CIS4327-Pre-Sem-Project\Project 0\Project 0\obj\Debug\netcoreapp3.1\Project 0.genruntimeconfig.cache
+C:\Users\Lan pc rx480\Source\Repos\harrisonhess\CIS4327-Pre-Sem-Project\Project 0\Project 0\obj\Debug\netcoreapp3.1\Project 0.csproj.CopyComplete
+C:\Users\Lan pc rx480\source\repos\harrisonhess\CIS4327-Pre-Sem-Project\Project 0\Project 0\obj\Debug\netcoreapp3.1\Razor\Views\Home\AdminLogin.cshtml.g.cs
