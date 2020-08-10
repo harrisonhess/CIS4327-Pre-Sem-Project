@@ -37,3 +37,5 @@ C:\Users\Lan pc rx480\Source\Repos\harrisonhess\CIS4327-Pre-Sem-Project\Project 
 C:\Users\Lan pc rx480\Source\Repos\harrisonhess\CIS4327-Pre-Sem-Project\Project 0\Project 0\obj\Debug\netcoreapp3.1\Project 0.csproj.CopyComplete
 C:\Users\Lan pc rx480\source\repos\harrisonhess\CIS4327-Pre-Sem-Project\Project 0\Project 0\obj\Debug\netcoreapp3.1\Razor\Views\Home\AdminLogin.cshtml.g.cs
 C:\Users\Lan pc rx480\source\repos\harrisonhess\CIS4327-Pre-Sem-Project\Project 0\Project 0\obj\Debug\netcoreapp3.1\Razor\Views\Home\AboutUs.cshtml.g.cs
+C:\Users\Lan pc rx480\Source\Repos\harrisonhess\CIS4327-Pre-Sem-Project\Project 0\Project 0\obj\Debug\netcoreapp3.1\Razor\Views\Home\OpportunityList.cshtml.g.cs
+C:\Users\Lan pc rx480\Source\Repos\harrisonhess\CIS4327-Pre-Sem-Project\Project 0\Project 0\obj\Debug\netcoreapp3.1\Razor\Views\Home\VolunteerList.cshtml.g.cs

@@ -33,6 +33,16 @@ namespace Project_0.Controllers
             return View();
         }
 
+        public IActionResult VolunteerList()
+        {
+            return View();
+        }
+
+        public IActionResult OpportunityList()
+        {
+            return View();
+        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
