@@ -20,8 +20,13 @@ namespace Project_0.Areas.Identity
                     options.UseSqlServer(
                         context.Configuration.GetConnectionString("VMSDbContextConnection")));
 
-                services.AddDefaultIdentity<VMSUser>(options => options.SignIn.RequireConfirmedAccount = true)
-                    .AddEntityFrameworkStores<VMSDbContext>();
+                services.AddDefaultIdentity<VMSUser>(options =>
+                {
+                options.SignIn.RequireConfirmedAccount = true;
+                    options.Password.RequireNonAlphanumeric = false;
+                })  
+                .AddEntityFrameworkStores<VMSDbContext>();
+                
             });
         }
     }
