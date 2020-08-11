@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lan pc rx480\\Source\\Repos\\CIS4327-Pre-Sem-Project\\Project 0\\Project 0\\Project 0.csproj": {}
+    "C:\\Users\\Chloe\\source\\repos\\harrisonhess\\CIS4327-Pre-Sem-Project\\Project 0\\Project 0\\Project 0.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lan pc rx480\\Source\\Repos\\CIS4327-Pre-Sem-Project\\Project 0\\Project 0\\Project 0.csproj": {
+    "C:\\Users\\Chloe\\source\\repos\\harrisonhess\\CIS4327-Pre-Sem-Project\\Project 0\\Project 0\\Project 0.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lan pc rx480\\Source\\Repos\\CIS4327-Pre-Sem-Project\\Project 0\\Project 0\\Project 0.csproj",
+        "projectUniqueName": "C:\\Users\\Chloe\\source\\repos\\harrisonhess\\CIS4327-Pre-Sem-Project\\Project 0\\Project 0\\Project 0.csproj",
         "projectName": "Project 0",
-        "projectPath": "C:\\Users\\Lan pc rx480\\Source\\Repos\\CIS4327-Pre-Sem-Project\\Project 0\\Project 0\\Project 0.csproj",
-        "packagesPath": "C:\\Users\\Lan pc rx480\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lan pc rx480\\Source\\Repos\\CIS4327-Pre-Sem-Project\\Project 0\\Project 0\\obj\\",
+        "projectPath": "C:\\Users\\Chloe\\source\\repos\\harrisonhess\\CIS4327-Pre-Sem-Project\\Project 0\\Project 0\\Project 0.csproj",
+        "packagesPath": "C:\\Users\\Chloe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Chloe\\source\\repos\\harrisonhess\\CIS4327-Pre-Sem-Project\\Project 0\\Project 0\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Lan pc rx480\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Chloe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

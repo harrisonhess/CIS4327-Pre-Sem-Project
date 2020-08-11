@@ -3,9 +3,14 @@
     "",
     "\\Project 0",
     "\\Project 0\\Project 0",
+    "\\Project 0\\Project 0\\Areas",
+    "\\Project 0\\Project 0\\Areas\\Identity",
+    "\\Project 0\\Project 0\\Areas\\Identity\\Pages",
+    "\\Project 0\\Project 0\\Controllers",
+    "\\Project 0\\Project 0\\Models",
     "\\Project 0\\Project 0\\Views",
     "\\Project 0\\Project 0\\Views\\Home"
   ],
-  "SelectedNode": "\\Project 0\\Project 0.sln",
+  "SelectedNode": "\\Project 0\\Project 0\\Areas\\Identity\\IdentityHostingStartup.cs",
   "PreviewInSolutionExplorer": false
 }
