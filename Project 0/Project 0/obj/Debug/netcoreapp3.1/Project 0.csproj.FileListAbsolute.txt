@@ -315,7 +315,6 @@ C:\Users\Lan pc rx480\Source\Repos\CIS4327-Pre-Sem-Project\Project 0\Project 0\o
 C:\Users\Lan pc rx480\Source\Repos\CIS4327-Pre-Sem-Project\Project 0\Project 0\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
 C:\Users\Lan pc rx480\Source\Repos\CIS4327-Pre-Sem-Project\Project 0\Project 0\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
 C:\Users\Lan pc rx480\Source\Repos\CIS4327-Pre-Sem-Project\Project 0\Project 0\obj\Debug\netcoreapp3.1\Razor\Views\Home\AboutUs.cshtml.g.cs
-C:\Users\Lan pc rx480\Source\Repos\CIS4327-Pre-Sem-Project\Project 0\Project 0\obj\Debug\netcoreapp3.1\Razor\Views\Home\AdminLogin.cshtml.g.cs
 C:\Users\Lan pc rx480\Source\Repos\CIS4327-Pre-Sem-Project\Project 0\Project 0\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\Lan pc rx480\Source\Repos\CIS4327-Pre-Sem-Project\Project 0\Project 0\obj\Debug\netcoreapp3.1\Razor\Views\Home\OpportunityList.cshtml.g.cs
 C:\Users\Lan pc rx480\Source\Repos\CIS4327-Pre-Sem-Project\Project 0\Project 0\obj\Debug\netcoreapp3.1\Razor\Views\Home\VolunteerList.cshtml.g.cs
