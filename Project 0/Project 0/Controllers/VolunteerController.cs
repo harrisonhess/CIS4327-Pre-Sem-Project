@@ -1,4 +1,4 @@
-﻿/*using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -16,19 +16,13 @@ namespace Project_0.Controllers
             repository = repo;
         }
 
-        public ViewResult List(int page = 1)
-            => View(new VolunteerListViewModel
+        public ViewResult List()
             {
-                Volunteers = repository.Volunteers
-                        .Skip((page - 1) * PageSize)
-                        .Take(PageSize),
-                PagingInfo = new PagingInfo
-                {
-                    CurrentPage = page,
-                    ItemsPerPage = PageSize,
-                    TotalItems = repository.Volunteers.Count()
-                },
-            });
+            VolunteerListViewModel volunteersListViewModel = new VolunteerListViewModel();
+            volunteersListViewModel.Volunteers = repository.Volunteers;
+         
+            return View(volunteersListViewModel);
+        }
+        
     }
 }
-*/

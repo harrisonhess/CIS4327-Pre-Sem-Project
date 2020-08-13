@@ -25,6 +25,7 @@ namespace Project_0
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+            services.AddAuthentication();
             services.AddMvc();
             //services.AddTransient<IVolunteerRepository, FakeVolunteerRepository>();
             //services.AddSingleton<IVolunteerRepository, FakeVolunteerRepository>();
