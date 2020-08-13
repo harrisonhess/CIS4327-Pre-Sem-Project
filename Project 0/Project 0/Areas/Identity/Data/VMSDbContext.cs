@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using Project_0.Areas.Identity.Data;
+using Project_0.Models;
 
 namespace Project_0.Data
 {
@@ -15,6 +16,8 @@ namespace Project_0.Data
             : base(options)
         {
         }
+        //public DbSet<Volunteer> Volunteers { get; set; }
+        //public DbSet<Opportunity> Opportunities { get; set; }
 
         protected override void OnModelCreating(ModelBuilder builder)
         {

@@ -26,7 +26,8 @@ namespace Project_0
         {
             services.AddControllersWithViews();
             services.AddMvc();
-            services.AddSingleton<IVolunteerRepository, FakeVolunteerRepository>();
+            //services.AddTransient<IVolunteerRepository, FakeVolunteerRepository>();
+            //services.AddSingleton<IVolunteerRepository, FakeVolunteerRepository>();
             services.AddRazorPages();
         }
 

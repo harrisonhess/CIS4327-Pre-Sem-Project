@@ -1,13 +1,18 @@
-﻿@model Project_0.Models.ViewModels.VolunteerListViewModel
-@foreach (var p in Model.Volunteers)
+﻿<!--model Project_0.Models.ViewModels.VolunteerListViewModel
+foreach (var p in Model.Volunteers)
 {
-    @Html.Partial("VolunteerSummary", p)
+    Html.Partial("VolunteerSummary", p)
 }
 
-<div page-model="@Model.PagingInfo" page-action="List" page-classes-enabled="true"
-    page-class="btn" page-class-normal="btn-default"
-    page-class-selected="btn-primary" class="btngroup float-right">
+<div page-model="Model.PagingInfo" page-action="List" page-classes-enabled="true"
+     page-class="btn" page-class-normal="btn-default"
+     page-class-selected="btn-primary" class="btngroup float-right">
     <h1 class="display-4">Volunteers</h1>
     <hr />
 
+</div>-->
+<div class="text-center">
+    <h1 class="display-4">Volunteers</h1>
+    <hr />
+    <!-- get and display list-->
 </div>
